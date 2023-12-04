@@ -15,20 +15,23 @@ Màn hình Home (mặc định)
 
 Màn hình Home khi chọn thẻ Popular:
 
-![image](https://github.com/vanh182/Melodybox/assets/118065256/393e853a-2a5a-431e-898f-bb4847e32d5b)
+![image](https://github.com/vanh182/Melodybox/assets/118065256/63f7bf1f-96a9-468d-9060-db33417e7442)
 
 
 Danh sách Vietnamese Music:
 
-![image](https://github.com/vanh182/Melodybox/assets/118065256/6a2f5a4f-e97a-4887-9213-2140b7ef06b6)
+![image](https://github.com/vanh182/Melodybox/assets/118065256/af121df0-e53f-4219-a590-52f80084ac52)
+
 
 Màn hình phát nhạc:
 
-![image](https://github.com/vanh182/Melodybox/assets/118065256/fce26b2e-bf7a-498b-941c-ffac8f3cf96a)
+![image](https://github.com/vanh182/Melodybox/assets/118065256/7338e2aa-eeb3-43b5-8cbd-9a3db61c3df8)
+
 
 Màn hình phát nhạc khi chọn nút Pause:
 
-![image](https://github.com/vanh182/Melodybox/assets/118065256/fd2ef167-b6f5-41dc-80bc-233469e475d9)
+![image](https://github.com/vanh182/Melodybox/assets/118065256/03bfff4b-fd83-4d48-b45f-9f13db49315d)
+
 
 
 
