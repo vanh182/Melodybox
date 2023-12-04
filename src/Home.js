@@ -266,4 +266,3 @@ const styles = StyleSheet.create({
   },
 });
 export default Categories;
-//his
