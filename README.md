@@ -10,7 +10,8 @@ Melodybox (Ứng dụng nghe nhạc đa nền tảng trên thiết bị di độ
 
 Màn hình Home (mặc định)
 
-![image](https://github.com/vanh182/Melodybox/assets/118065256/c44c57d1-0b43-466a-b45d-99a0b9604ab5)
+![image](https://github.com/vanh182/Melodybox/assets/118065256/ff4bdabe-27c4-40ff-9914-d66a83e17726)
+
 
 Màn hình Home khi chọn thẻ Popular:
 
